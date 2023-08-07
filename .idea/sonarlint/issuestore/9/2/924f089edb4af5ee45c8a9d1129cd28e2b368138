@@ -1,0 +1,28 @@
+
+h
+java:S1301Z"KReplace this "switch" statement by "if" statements to increase readability.(¾öÁ8×²›·š1
+h
+java:S1301g"KReplace this "switch" statement by "if" statements to increase readability.(¾öÁ8×²›·š1
+7
+java:S1220""Move this file to a named package.8×²›·š1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äÇÛŞúÿÿÿÿ8–³›·š1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®Æôœúÿÿÿÿ8–³›·š1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹ö‰Ñşÿÿÿÿ8–³›·š1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯¬Áİûÿÿÿÿ8–³›·š1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ª˜€Á8–³›·š1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„™½Õúÿÿÿÿ8–³›·š1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(”™ä¡üÿÿÿÿ8–³›·š1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(äóõüÿÿÿÿ8–³›·š1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(èıø¦8¥³›·š1
+]	java:S125E"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8–³›·š1
+c
+java:S1126J"AReplace this if-then-else statement by a single return statement.(šıÿÿÿÿ8–³›·š1
+^
+java:S1126Q"AReplace this if-then-else statement by a single return statement.(Ë ÷©8¥³›·š1
+>	java:S131Z""Add a default case to this switch.(¾öÁ8¥³›·š1
+c
+java:S1126`"AReplace this if-then-else statement by a single return statement.(Ø¶²Áøÿÿÿÿ8¥³›·š1
+>	java:S131g""Add a default case to this switch.(¾öÁ8¥³›·š1
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(ò›Ş8Ùö¢·š1
+^
+java:S1126y"AReplace this if-then-else statement by a single return statement.(Òõï£8ÒŒ·š1

@@ -1,0 +1,21 @@
+
+“
+java:S1319"qThe type of "studentsArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(‡Œğªùÿÿÿÿ8†Ø»ßš1
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¦Ü‰ò8†Ø»ßš1
+‰
+java:S1319"lThe type of "studentsList" should be an interface such as "List" rather than the implementation "ArrayList".(¦Ü‰ò8†Ø»ßš1
+‰
+java:S1319/"lThe type of "studentsList" should be an interface such as "List" rather than the implementation "ArrayList".(¼ó8†Ø»ßš1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è©µ³şÿÿÿÿ8†Ø»ßš1
+e
+java:S20950"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ğûæ8–Ø»ßš1
+k
+java:S2095!"NUse try-with-resources or close this "LineNumberReader" in a "finally" clause.(™®Øâ8–Ø»ßš1
+‡
+java:S4165"jRemove this useless assignment; "studentsList" already holds the assigned value along all execution paths.(¢¼¨œ8ÁÑ½ßš1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×µ²ÿıÿÿÿÿ8¥Ø»ßš1
+V
+java:S4719!"9Replace charset name argument with StandardCharsets.UTF_8(™®Øâ8¥Ø»ßš1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÍÛ¿ßš1

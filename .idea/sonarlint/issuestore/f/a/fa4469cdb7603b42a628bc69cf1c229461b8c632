@@ -1,0 +1,16 @@
+
+’
+java:S1319'"pThe type of "clientsArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(Àñ’éûÿÿÿÿ8ÊÉ¸š1
+’
+java:S1319-"pThe type of "clientsArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(°„¹Àúÿÿÿÿ8ÊÉ¸š1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÜ´ˆ8ÊÉ¸š1
+]	java:S125"<This block of commented-out lines of code should be removed.(Å¤Œ²øÿÿÿÿ8ÚÉ¸š1
+]	java:S125"<This block of commented-out lines of code should be removed.(ê–‰©ÿÿÿÿÿ8ÚÉ¸š1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ñ¨ıÿÿÿÿ8ÚÉ¸š1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(§ÚÑ³8êÉ¸š1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ø¿âÿÿÿÿÿ8êÉ¸š1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ÒÙıÿÿÿÿÿ8°¨Ê¸š1
+H
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8êÉ¸š1
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8êÉ¸š1
