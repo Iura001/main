@@ -1,0 +1,10 @@
+1. make a new class Motorcycle, Bus
+2. extends from transport and implements from TransportAction
+3. make some (2 for everybody -> 1 with scanner, 1 standart) new instance in main from Motorcycle, Bus
+4. make new Interface -> with 2 methodos (1 void, 1 return)
+5. New interface implements only in Bus
+
+6. make an array list with all transport from main (2 car, 2 motorcycle, 2 bus)
+7. and print this
+
+8. read about more functions in array list (remove, size, get...)
